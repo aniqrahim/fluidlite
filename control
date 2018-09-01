@@ -1,0 +1,9 @@
+Package: cc.aniq.fluidlite
+Name: fluidlite
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable iPhone X home gesture on older devices with custom personalized preferences but lighter.
+Maintainer: aniqrahim
+Author: aniqrahim
+Section: Tweaks
