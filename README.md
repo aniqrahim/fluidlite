@@ -1,4 +1,5 @@
 # fluidlite (deprecated as on iOS 12)
-Enable iPhone X home gesture on older devices with custom own personalized preferences but lighter.
+A very light tweak to enable iPhone X home gesture on older devices with personalized preferences embedded straight into the tweak.
+No configurations needed.
 ## credits
-VitaTaf & MidnightChips
+VitaTaf & MidnightChips for dylib base
