@@ -4,6 +4,6 @@ no configurations needed
 ## status
 deprecated
 ## iOS version supported
-iOS 12.0 - iOS 12.4.1
+iOS 11.0 - iOS 11.4.1
 ## credits
 VitaTaf & MidnightChips for dylib base
